@@ -37,6 +37,6 @@ I'm building this in public: every project below started from zero, and I docume
 
 ## 📫 Connect
 
-- LinkedIn: [https://www.linkedin.com/in/mustafa-kucukcoskun/](https://www.linkedin.com/in/mustafa-k%C3%BC%C3%A7%C3%BCkco%C5%9Fkun/)
-- X / Twitter: https://x.com/mkucukcoskun_
-- Email: m.kucukcoskunn@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mustafa-k%C3%BC%C3%A7%C3%BCkco%C5%9Fkun/)
+- [X / Twitter](https://x.com/mkucukcoskun_)
+- [Email](mailto:m.kucukcoskunn@gmail.com)
