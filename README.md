@@ -12,7 +12,7 @@ My degree is in naval architecture. Alongside it I write software: constraint-ba
 
 ### [İTÜ Otostop](https://github.com/MustafaKucukcoskun/itu-otostop)
 
-Course-registration automation for ITU's student information system. A request has to reach the server within milliseconds of the registration window opening, so the backend calibrates against the server clock, builds and pre-warms every request before the target time, and hands each registration to its own Cloud Run container to avoid GIL contention. Load-tested with 40 concurrent users, covered by 400+ backend tests.
+Course-registration automation for ITU's student information system. A request has to reach the server within milliseconds of the registration window opening, so the backend calibrates its clock against NTP, measures latency to the server, builds and pre-warms every request before the target time, and hands each registration to its own Cloud Run container to avoid GIL contention. Load-tested with 40 concurrent users, covered by 400+ backend tests.
 
 `Python` `FastAPI` `WebSocket` `Next.js 16` `TypeScript` `Supabase` `Google Cloud Run`
 
