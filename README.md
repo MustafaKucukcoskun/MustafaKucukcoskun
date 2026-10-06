@@ -6,7 +6,13 @@ I build data and AI systems, optimization models and the web apps around them, m
 
 ## Projects
 
-### Nöbetçi *(code owned by ITU)*
+### [JARVIS](https://github.com/MustafaKucukcoskun/jarvis-overview) *(code private)*
+
+Personal AI assistant that plans my day, records what actually happened and calibrates the next plan. 15 modules and 92 tools on LangGraph, an approval gate and permission tiers for anything risky, a bi-temporal memory, and an eval suite scored deterministically from the audit log. 1,400+ Python tests.
+
+`Python` `LangGraph` `FastAPI` `Gemini` `Claude` `pytest`
+
+### [Nöbetçi](https://github.com/MustafaKucukcoskun/itu-nobetci) *(code owned by ITU)*
 
 Duty scheduling for ITU's IT Department. Two constraint programs on OR-Tools CP-SAT assign 35–55 people to day, evening and night shifts. Hard rules (full coverage, no night-to-morning transitions, load caps) are never broken. Everything else is a five-tier penalty model, and fairness carries over from one period to the next.
 
@@ -17,6 +23,12 @@ Duty scheduling for ITU's IT Department. Two constraint programs on OR-Tools CP-
 Course-registration automation for ITU's student information system. A request has to reach the server within milliseconds of the registration window opening, so the backend calibrates its clock against NTP, measures latency to the server, builds and pre-warms every request before the target time, and hands each registration to its own Cloud Run container to avoid GIL contention. Load-tested with 40 concurrent users, covered by 400+ backend tests.
 
 `Python` `FastAPI` `WebSocket` `Next.js 16` `Supabase` `Google Cloud Run`
+
+### [Refine Agent Kit](https://github.com/MustafaKucukcoskun/Refine-agent-kit)
+
+AI agent toolkit published on npm. One command installs 21 specialist agents and 70 skill modules into a project, picks the right agent for the file being edited and blocks generic AI output.
+
+`Node.js` `AI agents` `CLI` `npm`
 
 ### [Catan Tournament Hub](https://github.com/MustafaKucukcoskun/catan-tournament)
 
