@@ -1,6 +1,6 @@
 # Mustafa Küçükcoşkun
 
-**Data & AI · Python · C# / .NET**
+**Data & AI · Python · C# / .NET · LLM apps, optimization and maritime data**
 
 I build data and AI systems, optimization models and the web apps around them, mostly in Python and C# / .NET. My goal is to work on data and AI in the maritime industry.
 
