@@ -30,6 +30,12 @@ AI agent toolkit published on npm. One command installs 21 specialist agents and
 
 `Node.js` `AI agents` `CLI` `npm`
 
+### [ForumWebApp](https://github.com/MustafaKucukcoskun/ForumWebApp)
+
+Discussion forum in ASP.NET Core MVC on .NET 10. Four layers (web, business, data access, entities), EF Core on SQL Server, nested reply threads built from a single query, cookie authentication with roles, BCrypt-hashed passwords and soft-deleted users.
+
+`C#` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server`
+
 ### [Catan Tournament Hub](https://github.com/MustafaKucukcoskun/catan-tournament)
 
 Tournament manager for Catan: Swiss-style league rounds, 4-player elimination pods, a constraint-based board generator and a live leaderboard over Supabase Realtime. Pairing, tiebreak and board-generation logic is plain TypeScript with unit tests.
