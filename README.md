@@ -1,12 +1,8 @@
 # Mustafa Küçükcoşkun
 
-**Data & AI · Shipbuilding and Ocean Engineering student at Istanbul Technical University**
+**Data & AI · C# / .NET · Python**
 
-I build LLM-powered systems, optimization models and the full-stack apps around them. My goal is to work on data and AI in the maritime industry.
-
-- **ITU IT Department** (student assistant, 2024 – present): designed and built Nöbetçi, the department's duty-scheduling system, on my own initiative. It is in official use for 40+ people.
-- **Beebird Technology** (AI intern, 2024 – 2025): built a RAG chatbot prototype with LangChain and OpenAI and ran ML experiments on Vertex AI.
-- **YZTA 5.0 scholar**: AI and Technology Academy, Data Science track.
+I build data and AI systems, optimization models and the web apps around them, mostly in C# / .NET and Python. My goal is to work on data and AI in the maritime industry.
 
 ## Projects
 
@@ -14,7 +10,7 @@ I build LLM-powered systems, optimization models and the full-stack apps around 
 
 Duty scheduling for ITU's IT Department. Two constraint programs on OR-Tools CP-SAT assign 40+ people to day, evening and night shifts. Hard rules (full coverage, no night-to-morning transitions, load caps) are never broken. Everything else is a five-tier penalty model, and fairness carries over from one period to the next.
 
-`Python` `OR-Tools CP-SAT` `FastAPI` `Next.js 16` `Supabase`
+`Python` `OR-Tools CP-SAT` `FastAPI` `Next.js 16` `PostgreSQL`
 
 ### [İTÜ Otostop](https://github.com/MustafaKucukcoskun/itu-otostop)
 
@@ -30,15 +26,15 @@ Tournament manager for Catan: Swiss-style league rounds, 4-player elimination po
 
 ## Stack
 
+- **Languages:** C# · Python · TypeScript · SQL
+- **Backend:** ASP.NET Core · Entity Framework Core · FastAPI · PostgreSQL · SQL Server · Docker
 - **AI & data:** LLM apps and agents (LangChain, LangGraph) · RAG · pandas · NumPy · PyTorch
 - **Optimization:** OR-Tools CP-SAT
-- **Languages:** Python · TypeScript · C# · SQL
-- **Backend & infra:** FastAPI · PostgreSQL / Supabase · Docker · Google Cloud
-- **Frontend:** Next.js · React · Tailwind CSS
+- **Frontend:** Next.js · React · Razor · Tailwind CSS
 
 ## Türkçe
 
-İTÜ'de Gemi ve Deniz Teknolojisi Mühendisliği okuyorum. Büyük dil modelleriyle çalışan sistemler, optimizasyon modelleri ve bunların etrafındaki web uygulamalarını geliştiriyorum. İTÜ Bilgi İşlem Daire Başkanlığında resmî olarak kullanılan nöbet planlama sistemi Nöbetçi'yi geliştirdim. İleride denizcilik sektöründe veri ve yapay zekâ üzerine çalışmak istiyorum.
+C# / .NET ve Python ile veri ve yapay zekâ sistemleri, optimizasyon modelleri ve bunların etrafındaki web uygulamalarını geliştiriyorum. İleride denizcilik sektöründe veri ve yapay zekâ üzerine çalışmak istiyorum.
 
 ## Contact
 
