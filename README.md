@@ -1,14 +1,14 @@
 # Mustafa Küçükcoşkun
 
-**Data & AI · C# / .NET · Python**
+**Data & AI · Python · C# / .NET**
 
-I build data and AI systems, optimization models and the web apps around them, mostly in C# / .NET and Python. My goal is to work on data and AI in the maritime industry.
+I build data and AI systems, optimization models and the web apps around them, mostly in Python and C# / .NET. My goal is to work on data and AI in the maritime industry.
 
 ## Projects
 
 ### Nöbetçi *(code owned by ITU)*
 
-Duty scheduling for ITU's IT Department. Two constraint programs on OR-Tools CP-SAT assign 40+ people to day, evening and night shifts. Hard rules (full coverage, no night-to-morning transitions, load caps) are never broken. Everything else is a five-tier penalty model, and fairness carries over from one period to the next.
+Duty scheduling for ITU's IT Department. Two constraint programs on OR-Tools CP-SAT assign 35–55 people to day, evening and night shifts. Hard rules (full coverage, no night-to-morning transitions, load caps) are never broken. Everything else is a five-tier penalty model, and fairness carries over from one period to the next.
 
 `Python` `OR-Tools CP-SAT` `FastAPI` `Next.js 16` `PostgreSQL`
 
@@ -26,15 +26,15 @@ Tournament manager for Catan: Swiss-style league rounds, 4-player elimination po
 
 ## Stack
 
-- **Languages:** C# · Python · TypeScript · SQL
-- **Backend:** ASP.NET Core · Entity Framework Core · FastAPI · PostgreSQL · SQL Server · Docker
 - **AI & data:** LLM apps and agents (LangChain, LangGraph) · RAG · pandas · NumPy · PyTorch
+- **Languages:** Python · C# · TypeScript · SQL
+- **Backend:** FastAPI · ASP.NET Core · Entity Framework Core · PostgreSQL · SQL Server · Docker
 - **Optimization:** OR-Tools CP-SAT
 - **Frontend:** Next.js · React · Razor · Tailwind CSS
 
 ## Türkçe
 
-C# / .NET ve Python ile veri ve yapay zekâ sistemleri, optimizasyon modelleri ve bunların etrafındaki web uygulamalarını geliştiriyorum. İleride denizcilik sektöründe veri ve yapay zekâ üzerine çalışmak istiyorum.
+Python ve C# / .NET ile veri ve yapay zekâ sistemleri, optimizasyon modelleri ve bunların etrafındaki web uygulamalarını geliştiriyorum. İleride denizcilik sektöründe veri ve yapay zekâ üzerine çalışmak istiyorum.
 
 ## Contact
 
